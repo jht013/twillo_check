@@ -18,7 +18,7 @@ for file in ${array_file[@]}; do
 done
 
 # to number [ You can change it if u want - ONLY US NUMBER ]
-to_number="+19379492383"
+to_number="+1‪2602278765‬"
 
 # banner
 echo '''
